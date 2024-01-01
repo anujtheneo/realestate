@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>156251099752-5uukbpsv673uu3fdn97trs6mcoeiqqf2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.156251099752-5uukbpsv673uu3fdn97trs6mcoeiqqf2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCnT4fjcMACyPAibwQfJ4c-8VnaHmisDEE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>156251099752</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.rohitlaw.realestate</string>
+	<key>PROJECT_ID</key>
+	<string>realestate-6945d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realestate-6945d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:156251099752:ios:0740d50ed73b079662a1dd</string>
+</dict>
+</plist>
